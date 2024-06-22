@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TripsWebsiteAPI",
+    "\\TripsWebsiteAPI\\TripsWebsiteAPI",
+    "\\TripsWebsiteAPI\\TripsWebsiteAPI\\Controllers",
+    "\\TripsWebsiteAPI\\TripsWebsiteAPI\\Models",
+    "\\TripsWebsiteAPI\\TripsWebsiteAPI\\Models\\Users"
+  ],
+  "SelectedNode": "\\TripsWebsiteAPI\\TripsWebsiteAPI\\Controllers\\TripController.cs",
+  "PreviewInSolutionExplorer": false
+}
